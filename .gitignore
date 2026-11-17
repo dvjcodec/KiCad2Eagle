@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+ustawienia.json
+RAPORT_TESTOW.md
+eagle75/
+*.kicad_*
+*.brd
+*.sch
