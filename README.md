@@ -114,3 +114,7 @@ python konwerter\runner.py projekt.kicad_pro [--wynik FOLDER] [--bez-plytki] [--
 | `szablony\` | bloki warstw Eagle i domyślne reguły DRC |
 
 Testowane na 4-warstwowych projektach (518 i 192 elementy, część wieloczęściowa): zero różnic połączeń, Eagle 7.5 wczytuje wynik bez błędów i ostrzeżeń.
+
+## Licencja
+
+MIT – patrz plik `LICENSE`.
